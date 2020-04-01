@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #f0134d;
+}
+
+hr {
+  border: dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  line-height: 2;
+}
+
+h1 {
+  margin: 60px auto 10px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #f0134d;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #f0134d;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff6f5e;
+}
+
+a {
+  color: #40bfc1;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #f5f0e3;
+}
+
+.profile {
+  background-color: #f5f0e3;
+
+}
+
+.photo {
+  height: 300px;
+  width: 300px;
+  margin-top: 20px;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  margin: auto;
+}
+
+.top-container {
+  background-color: #f5f0e3;
+  margin: 0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #f5f0e3;
+
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #f0134d;
+}
+
+.contact-me {
+  background-color: #f5f0e3;
+  padding: 10px;
+}
+
+.bottom-cloud {
+  height: 400px;
+  width: 300px;
+  position: absolute;
+  right: 100px;
+  top: 10px;
+}
+
+.top-cloud {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  background-color: #f5f0e3;
+  width: 50%;
+}
+
+.computer {
+  margin: 40px;
+  width: 25%;
+  float: left;
+}
+
+.camera {
+  margin-right: 30px;
+  width: 25%;
+  float: right;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+  padding: 20px 0;
+  font-size: 0.75rem;
+  color: #f5f0e3;
+}
+.btn{
+  color: #f0134d;
+}
+  .btn:hover{
+  color: #ff6f5e;
+}
